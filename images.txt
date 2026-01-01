@@ -1,1 +1,2 @@
-openjdk:17-jdk-slim
+apache/kafka:3.7.0
+
